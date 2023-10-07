@@ -46,12 +46,12 @@ def main():
 
     while True:
         print("\nOptions:")
-        print("1. Add Task")
-        print("2. Complete Task")
-        print("3. Delete Task")
+        print("1. Add Tasks")
+        print("2. Complete Tasks")
+        print("3. Delete Tasks")
         print("4. Show Tasks")
-        print("5. Save Tasks")
-        print("6. Quit")
+        print("5. Saved Tasks")
+        print("6. Quit(Exit)")
 
         choice = input("Enter your task(choice): ")
 
